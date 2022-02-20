@@ -6,7 +6,7 @@ Project provided by udacity for Advanced Full-Stack Web Development Nano Degree.
 - Use the following command to create a user
 `CREATE DATABASE <username> WITH PASSWORD <password>`
 - Use the following command to create a database
-- `CREATE DATABASE <db_dev` for main development
+- `CREATE DATABASE <db_dev>` for main development
 - `CREATE DATABAE <db_test>` for testing
 - Insert your `.env` variables.
 - Create `database.json file`
